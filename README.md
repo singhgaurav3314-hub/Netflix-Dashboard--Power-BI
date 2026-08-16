@@ -9,42 +9,43 @@ Dashboard Pages
 
 1. Netflix Overview
 
-Total Titles
-Movies vs TV Shows
-Top Genres
-Content Added Over Time
-Top 10 Directors
+-Total Titles
+-Movies vs TV Shows
+-Top Genres
+-Content Added Over Time
+-Top 10 Directors
 
 2. Content Analysis
 
-Content by Release Year
-Top Ratings
-Movie Duration Distribution
-Movies vs TV Shows by Year
-TV Show Seasons
+-Content by Release Year
+-Top Ratings
+-Movie Duration Distribution
+-Movies vs TV Shows by Year
+-TV Show Seasons
 
 3. Country & Genre Analysis
 
-Top 10 Countries
-Top Genres
-Geographic Distribution
-Country & Genre Analysis
-Interactive filters
-Tools Used
-Microsoft Power BI
-Power Query
-DAX
-Data Cleaning
-Data Visualization
-Exploratory Data Analysis
-Key Metrics
-Metric	Value
-Total Titles	8,804
-Movies	6,128
-TV Shows	2,676
-Countries	123
-Directors	4,986
-Dashboard Preview
+-Top 10 Countries
+-Top Genres
+-Geographic Distribution
+-Country & Genre Analysis
+-Interactive filters
+4.Tools Used
+-Microsoft Power BI
+-Power Query
+-DAX
+-Data Cleaning
+-Data Visualization
+-Exploratory Data Analysis
+5. Key Metrics
+-Metric	Value
+-Total Titles	8,804
+-Movies	6,128
+-TV Shows	2,676
+-Countries	123
+-Directors	4,986
+
+6. Dashboard Preview
 
 ### Netflix Overview
 <img width="1150" height="648" alt="netfix_overview" src="https://github.com/user-attachments/assets/cc9652d9-bdda-4d87-aa11-d24bd9657d0a" />
