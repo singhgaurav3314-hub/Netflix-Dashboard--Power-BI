@@ -49,6 +49,7 @@ Dashboard Pages
 
 ### Netflix Overview
 <img width="1150" height="648" alt="netfix_overview" src="https://github.com/user-attachments/assets/cc9652d9-bdda-4d87-aa11-d24bd9657d0a" />
+
 ### Content Analysis
 <img width="1151" height="649" alt="content_analysis" src="https://github.com/user-attachments/assets/3c71e8e7-faa4-4d3a-a5d6-ad4401584314" />
 
