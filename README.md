@@ -55,3 +55,9 @@ Dashboard Pages
 ### Country & Genre Analysis
 <img width="1151" height="649" alt="geograhic_analysis" src="https://github.com/user-attachments/assets/4f1fe0f9-5a8a-42ae-b974-ca845676934b" />
 
+## Requirements
+
+- Microsoft Power BI Desktop
+- Power Query
+- DAX
+- Windows operating system
